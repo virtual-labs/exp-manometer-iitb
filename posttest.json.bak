@@ -1,0 +1,21 @@
+[
+
+    {
+        "question": "A liquid of specific gravity 0.8 is flowing through the pipe. The manometric fluid is mercury of specific gravity 13.6. Find the pressure inside the pipe. Take values of h1 = 6 cm, h2 = 20 cm, h3 = 14 cm. Refer the figure in the simulator.",
+        "qid": 1,
+        "option_a": "24121.43 N/m<sup>2</sup>",
+        "option_b": "26212.32 N/m<sup>2</sup>",
+        "option_c": "36232.22 N/m<sup>2</sup>",
+        "option_d": "35112.87 N/m<sup>2</sup>",
+        "correct_option": "b"
+    },
+    {
+        "question": "A liquid of specific gravity 0.8 is flowing through the pipe. The manometric fluid is mercury of specific gravity 13.6. Find the pressure inside the pipe. Take values of h1 = 5 cm, h2 = 20 cm, h3 = 15 cm. Refer the figure in the simulator.",
+        "qid": 2,
+        "option_a": "25282.8 N/m<sup>2</sup>",
+        "option_b": "29756.7 N/m<sup>2</sup>",
+        "option_c": "27480.2 N/m<sup>2</sup>",
+        "option_d": "26290.8 N/m<sup>2</sup>",
+        "correct_option": "d"
+    }
+]
