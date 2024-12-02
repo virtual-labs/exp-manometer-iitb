@@ -1,0 +1,20 @@
+[
+    {
+        "question": "U-tube Manometer is used to measure",
+        "qid": 1,
+        "option_a": "Gauge Pressure and Vacuum Pressure",
+        "option_b": "Absolute Pressure",
+        "option_c": "Vacuum Pressure",
+        "option_d": "Mechanical Pressure",
+        "correct_option": "a"
+    },
+    {
+        "question": "Pressure measured by U-tube Manometer is given by",
+        "qid": 2,
+        "option_a": "&rho;<sub>1</sub>* g*h1- &rho;<sub>2</sub>* g*h<sub>2</sub>",
+        "option_b": "g*h<sub>1</sub>",
+        "option_c": "&rho;<sub>2</sub>* g*h<sub>2</sub>- &rho;<sub>1</sub>* g*h<sub>1</sub>",
+        "option_d": "&rho;*g/h<sub>2</sub>",
+        "correct_option": "c"
+    }
+]
